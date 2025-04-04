@@ -1,6 +1,6 @@
 - 👋 Hi there, I am Jeremy Maignan
 - 💻 I am a Backend Engineer
-- 🍔 I work at Deliveroo in London
+- 🍔 I work at Ada in Montreal Canada
 - ✍️ I write stuff on my [Medium](https://medium.com/@jeremy.maignan) sometimes
 - 📫 You can reach me via my [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-maignan/)
 - ⚡ Fun fact: Last year, I read 62 books
